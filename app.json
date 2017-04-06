@@ -1,0 +1,15 @@
+{
+  "name": "acquaintance_services",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
